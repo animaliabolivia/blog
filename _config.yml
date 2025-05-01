@@ -11,7 +11,7 @@ tags:
   - netlify
 show_hero: true
 menu:
-  - title: Home
+  - title: Inicio
     url: /
   - title: About
     url: /about
