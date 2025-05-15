@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', function() {
     let docs = [];
   
     // Cargar el índice de búsqueda
-    fetch('/search.json')
+    fetch('/blog/search.json')
       .then(response => response.json())
       .then(data => {
         docs = data.docs;
