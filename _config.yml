@@ -1,8 +1,7 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Animalia Bolivia
+title: Animalia Bolivia | El blog de los que no tienen voz
+description: Un blog a favor de los animales y la libertad de expresión.
 tags:
   - blog
   - template
@@ -13,16 +12,16 @@ show_hero: true
 menu:
   - title: Inicio
     url: /
-  - title: About
+  - title: Nosotros
     url: /about
-  - title: Contact
+  - title: Contacto
     url: /contact
 email: youremail@test.com
 # See: https://disqus.com/
 disqus_username: disqus_username
 # Contact Form Setting
 # See: https://formspree.io/
-formspree_form_id: formspree_form_id
+formspree_form_id: xeogvlpo
 
 
 # Social Media Settings
@@ -46,7 +45,7 @@ two_columns_layout: true
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://animaliabolivia.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
-language: "en"
+language: "es"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
 

@@ -1,14 +1,14 @@
 ---
-date: 2019-05-16 23:48:05
+date: 2019-05-15 23:48:05
 layout: post
 title: Libertad de expresión ante todo
 subtitle: 'El blog de los que no tienen voz'
 description: >-
   Primera entrada del blog donde sabrás nuestro objetivo, misión y visón. 
 image: >-
-  /assets/img/posts/portada1.jpeg
+  ../assets/img/posts/portada1.jpg
 optimized_image: >-
-  /assets/img/posts/portada1.jpeg
+  ../assets/img/posts/portada1.jpg
 category: blog
 tags:
   - bienvenido
@@ -48,6 +48,4 @@ Pero tenemos un par de condiciones:
 * **Animalia Blog** no tiene un partido político, esas mierdas no van con nosotros asi que no queremos publicación con eso.
 
 De momento no tenemos mas restricciones, si ya estas listo para opinar por favor manda un correo a **animaliabolivia00@gmail.com** con tu propuesta en el formato que quieras (de preferencia markdown o docx).
-
---page-break--
 

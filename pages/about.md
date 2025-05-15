@@ -7,13 +7,9 @@ description: Some description.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thomas A. Anderson" width="200">
+<img class="img-rounded" src="../assets/img/uploads/animalia.png" alt="perfil" width="200">
 
-# About
+# Nosotros
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Animalia Bolivia es un blog donde cualquier persona puede aportar con algun artículo realcionado a los animales, pueden opinar lo que quieran ya que estamos a favor de la libertad de expresión, ademas pueden hacerlo anónimamente si asi lo desean.
+Con esto queremos lograr centralizar información útil para nuestros animales, conscientizar y reflexionar hacerca de la situación de los animales en Bolivia y expresarnos por aquellos que no tienen voz.
