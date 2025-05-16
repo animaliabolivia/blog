@@ -6,9 +6,9 @@ subtitle: 'El blog de los que no tienen voz'
 description: >-
   Primera entrada del blog donde sabrás nuestro objetivo, misión y visón. 
 image: >-
-  /assets/img/posts/portada1.jpg
+  /blog/assets/img/posts/portada1.jpg
 optimized_image: >-
-  /assets/img/posts/portada1.jpg
+  /blog/assets/img/posts/portada1.jpg
 category: blog
 tags:
   - bienvenido
