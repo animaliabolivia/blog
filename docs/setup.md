@@ -66,12 +66,12 @@ In order to translate texts throughout the theme, create a `translations.yml` fi
 ```
 translations:
   text:
-    new_post: "New Post"
-    see_also: "See also"
-    search: "Search"
-    author: "Author"
-    share: "Share"
-    comments: "Comments"
+    new_post: "Nuevo Post"
+    see_also: "Tambien ve"
+    search: "Buscar"
+    author: "Autor"
+    share: "Compartir"
+    comments: "Comentarios"
   button:
     read_now: "Read Now"
     share_on_twitter: "Share on Twitter"
