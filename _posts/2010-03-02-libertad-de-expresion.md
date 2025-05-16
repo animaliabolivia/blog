@@ -4,7 +4,7 @@ layout: post
 title: Libertad de expresión
 subtitle: La voz de los que no tienen voz.
 description: Bienvenidos al blog de los animales.
-image: https://animaliabolivia.github.io/blog/assets/img/posts/portada1.jpg
+image: /blog/assets/img/posts/portada1.jpg
 optimized_image: https://animaliabolivia.github.io/blog/assets/img/posts/portada1.jpg
 category: blog
 tags:
