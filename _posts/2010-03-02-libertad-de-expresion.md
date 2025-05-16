@@ -1,18 +1,15 @@
 ---
 date: 2019-05-15 23:48:05
 layout: post
-title: Libertad de expresión ante todo
-subtitle: El blog de los que no tienen voz.
-description: Primera entrada del blog donde sabrás nuestro objetivo, misión y visón.
+title: Libertad de expresión
+subtitle: La voz de los que no tienen voz.
+description: Bienvenidos al blog de los animales.
+image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559820489/js-code_n83m7a.jpg
+optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559820489/js-code_n83m7a.jpg
 category: blog
-image: /blog/assets/img/posts/portada1.jpg
-optimized_image: /blog/assets/img/posts/portada1.jpg
 tags:
-  - bienvenido
-  - blog
-  - inicio
+  - bienvenida
 author: animalia
-paginate: true
 ---
 
 # Saludos 

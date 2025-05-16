@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/animalia.png
+photo: /blog/assets/img/uploads/animalia.png
 name: Animalia Bolivia
 display_name: Animalia Bolivia
 position: The One
