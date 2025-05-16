@@ -11,5 +11,7 @@ permalink: /about/
 
 # Nosotros
 
-Animalia Bolivia es un blog donde cualquier persona puede aportar con algun artículo realcionado a los animales, pueden opinar lo que quieran ya que estamos a favor de la libertad de expresión, ademas pueden hacerlo anónimamente si asi lo desean.
-Con esto queremos lograr centralizar información útil para nuestros animales, conscientizar y reflexionar hacerca de la situación de los animales en Bolivia y expresarnos por aquellos que no tienen voz.
+<div>
+    <p style="text-align: justify">Animalia Bolivia es un blog donde cualquier persona puede aportar con algun artículo realcionado a los animales, pueden opinar lo que quieran ya que estamos a favor de la libertad de expresión, ademas pueden hacerlo anónimamente si asi lo desean.
+Con esto queremos lograr centralizar información útil para nuestros animales, conscientizar y reflexionar hacerca de la situación de los animales en Bolivia y expresarnos por aquellos que no tienen voz.</p>
+</div>
