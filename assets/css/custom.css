@@ -1,0 +1,6 @@
+/* Justificar texto en la página "About" */
+.page-about .page-content {
+    text-align: justify;
+    text-justify: inter-word; /* Mejor distribución para español */
+    line-height: 1.6; /* Espaciado entre líneas */
+}
