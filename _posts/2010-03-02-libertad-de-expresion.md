@@ -10,6 +10,7 @@ category: blog
 tags:
   - bienvenida
 author: animalia
+paginate: true
 ---
 
 Hola a todos nos presentamos somos **Animalia Bolivia Blog**, un espacio de aportes con respecto a los animales (principalmente domesticos)con la finalidad de apoyar, dar consejos, guiar, reflexionar, etc. Con respecto a los animales en Bolivia y su situación.

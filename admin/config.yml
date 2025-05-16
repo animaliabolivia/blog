@@ -323,24 +323,24 @@ collections:
             name: "texts"
             widget: "object"
             fields:
-              - label: "Nuevo Post"
-                name: "nuevo_post"
+              - label: "New Post"
+                name: "new_post"
                 widget: "string"
                 required: false
               - label: "Tambien ve"
-                name: "tambien ve"
+                name: "seel_also"
                 widget: "string"
                 required: false
-              - label: "Buscar"
-                name: "buscar"
+              - label: "Search"
+                name: "search"
                 widget: "string"
                 required: false
-              - label: "Compartir"
-                name: "compartir"
+              - label: "Share"
+                name: "share"
                 widget: "string"
                 required: false
-              - label: "Comentarios"
-                name: "comentarios"
+              - label: "Comments"
+                name: "comments"
                 widget: "string"
                 required: false
           - label: "Buttons"
